@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/parent_item"
+        android:showAsAction="always"
+        android:title="Actions">
+        <menu>
+            <item
+                android:id="@+id/action_new"
+                android:showAsAction="always"
+                android:title="@string/newFeed" />
+            <item
+                android:id="@+id/action_edit"
+                android:showAsAction="always"
+                android:title="@string/editFeed" />
+            <item
+                android:id="@+id/action_add_attach"
+                android:showAsAction="always"
+                android:title="@string/add_attach"></item>
+            <item
+                android:id="@+id/action_share"
+                android:showAsAction="always"
+                android:title="@string/share" />
+            <item
+                android:id="@+id/action_del"
+                android:showAsAction="always"
+                android:title="@string/del_feed"></item>
+            <item
+                android:id="@+id/action_del_attach"
+                android:showAsAction="always"
+                android:title="@string/del_attach"></item>
+        </menu>
+    </item>
+</menu>

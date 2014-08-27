@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MySocial</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="about">About</string>
+    <string name="editFeed">Edit Feed</string>
+    <string name="add_attach">Add Attachment</string>
+    <string name="share">Share</string>
+    <string name="newFeed">New Feed</string>
+    <string name="del_feed">Del Feed</string>
+    <string name="del_attach">Del Attachment</string>
+
+</resources>
